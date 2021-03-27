@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio to demo some node.js and mongo db skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSmithers/portfolio.git"
+  },
+  "author": "Tom Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSmithers/portfolio/issues"
+  },
+  "homepage": "https://github.com/MrSmithers/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.10.0",
+    "react": "^17.0.2"
+  }
+}
